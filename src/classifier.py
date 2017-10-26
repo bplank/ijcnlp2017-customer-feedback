@@ -22,7 +22,7 @@ random.seed(seed)
 np.random.seed(seed)
 
 # parse command line options
-parser = argparse.ArgumentParser(description="""Run a structured perceptron""")
+parser = argparse.ArgumentParser(description="""Simple SVM classifier using various kinds of features (cf. Plank, 2017)""")
 parser.add_argument("train", help="train model on a file")
 parser.add_argument("test", help="test model on a file")
 parser.add_argument("--lang", help="language", default="en")
