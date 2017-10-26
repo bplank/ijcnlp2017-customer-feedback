@@ -2,9 +2,9 @@
 
 The code for the system described in Plank (2017).
 
-Simple system that won (ranked 1st out of 12 teams) in the IJCNLP 2017
-shared task 4 on (Customer Feedback
-Analysis)[https://sites.google.com/view/customer-feedback-analysis/]
+Simple system (SVM) that won (ranked 1st out of 12 teams) in the IJCNLP 2017
+shared task 4 on Customer Feedback Analysis:
+https://sites.google.com/view/customer-feedback-analysis/
 
 ```
 @InProceedings{plank:2017:IJCNLP,
